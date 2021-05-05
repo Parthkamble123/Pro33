@@ -24,7 +24,7 @@
   
    imageMode(CENTER)
    image(this.image,0, 0, this.r,this.r);
-image.scale=5
+
    pop();
    
   
